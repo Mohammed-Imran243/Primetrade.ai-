@@ -1,0 +1,35 @@
+{
+  "name": "primetrade.ai-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/index.js",
+  "scripts": {
+    "dev": "nodemon backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed-Imran243/Primetrade.ai-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "activationEvents": [],
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Mohammed-Imran243/Primetrade.ai-/issues"
+  },
+  "homepage": "https://github.com/Mohammed-Imran243/Primetrade.ai-#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "crypt": "^0.0.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
